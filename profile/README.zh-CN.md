@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://lmspeed.net/zh"><img src="https://raw.githubusercontent.com/LMSpeed/.github/main/profile/assets/logo.png" width="96" height="96" alt="LMSpeed" /></a>
+<a href="https://lmspeed.net/zh"><img src="https://raw.githubusercontent.com/LMSpeed/.github/main/profile/assets/logo-square.png" width="96" height="96" alt="LMSpeed" /></a>
 
 # LMSpeed
 
